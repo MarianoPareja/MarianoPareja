@@ -2,7 +2,7 @@
 
 ## Student 
 
-I'm a developer with a BsC in Mechatronics Engineer, who likes to dive into the world of Artificial Intelligence, aiming to become a ML Engineer.
+I am a Mechatronics Engineer who is deeply intrigued by the world of Artificial Intelligence and aspires to work as a Machine Learning Engineer. All the coding projects I have undertaken have been primarily for college assignments or as hobbies, exploring topics that genuinely interest me.
 
 ---
 
@@ -17,4 +17,5 @@ I'm a developer with a BsC in Mechatronics Engineer, who likes to dive into the 
 
 #
 
+![Mariano's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianopareja&show_icons=true&theme=noctis_minimus)
           
