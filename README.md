@@ -16,7 +16,4 @@ I am a Mechatronics Engineer who is deeply intrigued by the world of Artificial 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <br />
 
-#
-
-![Mariano's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianopareja&show_icons=true&theme=noctis_minimus)
-          
+#          
